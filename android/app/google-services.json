@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1065292370830",
+    "project_id": "fir-with-login-55c8c",
+    "storage_bucket": "fir-with-login-55c8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065292370830:android:c385e4c4bc427c84018adf",
+        "android_client_info": {
+          "package_name": "com.example.movie_book_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnU2H5wZJewvfCVCfx81cqGFu_zbxmqmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
