@@ -24,6 +24,7 @@ class _ScreenScreenState extends State<ScreenScreen> {
 
   @override
   void initState() {
+    
     movieSearchList = getSearchMovies();
 
     super.initState();
